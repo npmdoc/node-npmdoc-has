@@ -1,9 +1,14 @@
-# api documentation for  [has (v1.0.1)](https://github.com/tarruda/has)  [![npm package](https://img.shields.io/npm/v/npmdoc-has.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-has) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-has.svg)](https://travis-ci.org/npmdoc/node-npmdoc-has)
+# npmdoc-has
+
+#### api documentation for  [has (v1.0.1)](https://github.com/tarruda/has)  [![npm package](https://img.shields.io/npm/v/npmdoc-has.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-has) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-has.svg)](https://travis-ci.org/npmdoc/node-npmdoc-has)
+
 #### Object.prototype.hasOwnProperty.call shortcut
 
-[![NPM](https://nodei.co/npm/has.png?downloads=true)](https://www.npmjs.com/package/has)
+[![NPM](https://nodei.co/npm/has.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/has)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-has/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-has_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-has/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-has/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-has/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-has/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-has/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-has/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Thiago de Arruda",
-        "email": "tpadilha84@gmail.com"
+        "name": "Thiago de Arruda"
     },
     "bugs": {
         "url": "https://github.com/tarruda/has/issues"
@@ -50,13 +54,11 @@
     "main": "./src/index",
     "maintainers": [
         {
-            "name": "tarruda",
-            "email": "tpadilha84@gmail.com"
+            "name": "tarruda"
         }
     ],
     "name": "has",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/tarruda/has.git"
@@ -67,16 +69,6 @@
     "version": "1.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module has](#apidoc.module.has)
-
-
-
-# <a name="apidoc.module.has"></a>[module has](#apidoc.module.has)
 
 
 
