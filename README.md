@@ -1,6 +1,6 @@
 # npmdoc-has
 
-#### api documentation for  [has (v1.0.1)](https://github.com/tarruda/has)  [![npm package](https://img.shields.io/npm/v/npmdoc-has.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-has) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-has.svg)](https://travis-ci.org/npmdoc/node-npmdoc-has)
+#### basic api documentation for  [has (v1.0.1)](https://github.com/tarruda/has)  [![npm package](https://img.shields.io/npm/v/npmdoc-has.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-has) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-has.svg)](https://travis-ci.org/npmdoc/node-npmdoc-has)
 
 #### Object.prototype.hasOwnProperty.call shortcut
 
@@ -66,7 +66,8 @@
     "scripts": {
         "test": "node_modules/mocha/bin/mocha"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
